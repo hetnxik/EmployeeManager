@@ -82,5 +82,5 @@ Use this when you have finished your work and want to end the program.<br>
 
 ### Thanks for reading
 
-<img src="https://cdn.discordapp.com/emojis/837776992291389501.gif?v=1">
+<img src="https://imgur.com/GSdkjXi.jpg">
 <hr><hr>
