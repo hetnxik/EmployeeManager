@@ -30,19 +30,20 @@ Here you can choose what operation you want to perform.<br>
 You can perform 6 tasks in total.
 
 ## Task #1 - Write
-<br> As then name suggests, you can write employee data into a new csv file.<br>
-
+<br>
+As then name suggests, you can write employee data into a new csv file.<br>
 If you select this then the program will ask you to give a name to the file in which you want to store the data.
 Then it will ask you to enter the employee details such as Id, name, salary etc.<br>
 This is how it looks like:<img src="https://imgur.com/bicvgi4.jpg"><br><br>
-
 <hr>
-<br><br>
+
 ## Task #2 - Read
-<br>With this you can see all the data in a csv file<br>
+<br>
+With this you can see all the data in a csv file<br>
 You have to give the name of the file whos data you want to see<br>
 This is how it looks like<br><img src = "https://imgur.com/GdXBJji.jpg">
 <hr>
+
 ## Task #3 - Update
 <br>
 When this task is called, It asks you for the filename whos data you want to update.
@@ -55,8 +56,10 @@ do nothing<br>
 <br>CSV file before update :<img src = "https://imgur.com/GaLZg9o.jpg"><br>
 CSV file after update: <img src ="https://imgur.com/NutfsxZ.jpg">
 <hr>
+
 ## Task #4 - Delete
-<br>When this task is called, it asks for the filename whos data you want to edit
+<br>
+When this task is called, it asks for the filename whos data you want to edit
 <br>
 If the sales are less than 100000<br>
 then remove those rows from the database
@@ -69,11 +72,13 @@ When this task is executed, it will ask for the file name in which you want to s
 <br>Then It will ask the employee Id of the employee you want to search<br>
 This is how it looks like:<br>
 <img src="https://imgur.com/63uJagJ.jpg">
+<hr>
 
 ## Task #6 - Exit
 <br>
 Use this when you have finished your work and want to end the program.<br>
 <img src="https://imgur.com/XmES7hR.jpg">
-
+<hr>
 ### Thanks for reading
 <img src="https://cdn.discordapp.com/emojis/837776992291389501.gif?v=1">
+<hr><hr>
