@@ -10,7 +10,7 @@
 
 ## Installation
 
-To download this program, click the `Code` button beside `Add File` and select `Download ZIP`.
+To download this program, click the `Code` button beside `Add File` and select `Download ZIP`, unzip the zip file.
 <hr>
 
 ## Using the program
@@ -18,7 +18,7 @@ To download this program, click the `Code` button beside `Add File` and select `
 <br>
 
 Follow the steps after installation:
-1. run `main.py`
+1. run `menu.py`
 <br>
 The output would be like this:<br><br>
 <img src="https://i.imgur.com/eYSv6IO.png"></img>
