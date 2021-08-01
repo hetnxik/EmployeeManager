@@ -79,6 +79,8 @@ This is how it looks like:<br>
 Use this when you have finished your work and want to end the program.<br>
 <img src="https://imgur.com/XmES7hR.jpg">
 <hr>
+
 ### Thanks for reading
+
 <img src="https://cdn.discordapp.com/emojis/837776992291389501.gif?v=1">
 <hr><hr>
