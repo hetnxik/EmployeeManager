@@ -62,3 +62,18 @@ If the sales are less than 100000<br>
 then remove those rows from the database
 <br>
 <hr>
+
+## Task #5 - Search
+<br>
+When this task is executed, it will ask for the file name in which you want to search.
+<br>Then It will ask the employee Id of the employee you want to search<br>
+This is how it looks like:<br>
+<img src="https://imgur.com/63uJagJ.jpg">
+
+## Task #6 - Exit
+<br>
+Use this when you have finished your work and want to end the program.<br>
+<img src="https://imgur.com/XmES7hR.jpg">
+
+### Thanks for reading
+<img src="https://cdn.discordapp.com/emojis/837776992291389501.gif?v=1">
