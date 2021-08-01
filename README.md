@@ -81,6 +81,3 @@ Use this when you have finished your work and want to end the program.<br>
 <hr>
 
 ### Thanks for reading
-
-<img src="https://imgur.com/GSdkjXi.jpg">
-<hr><hr>
