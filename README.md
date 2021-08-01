@@ -3,10 +3,10 @@
 #### A school project to handle CSV files
 <hr>
 
-![GitHub](https://img.shields.io/github/license/awesomehet2124/EmployeeManager2.0?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/awesomehet2124/EmployeeManager2.0?style=for-the-badge)
-![Lines of code](https://img.shields.io/tokei/lines/github/awesomehet2124/EmployeeManager2.0?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/awesomehet2124/EmployeeManager2.0?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/awesomehet2124/EmployeeManager?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/awesomehet2124/EmployeeManager?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/awesomehet2124/EmployeeManager?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/awesomehet2124/EmployeeManager?style=for-the-badge)
 
 ## Installation
 
